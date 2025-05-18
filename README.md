@@ -1,4 +1,4 @@
-# project_app
+# Dawri App
 
 A new Flutter project.
 
